@@ -10,12 +10,12 @@
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # About the repository:
-- [ Proposal]()
-- [ MVP]()
-- [Jupyter Notebooks]()
+- [ Proposal](https://github.com/Alsultan14/Hotel-Review-Natural-Language-Processing/tree/main/Proposal)
+- [ MVP](https://github.com/Alsultan14/Hotel-Review-Natural-Language-Processing/tree/main/MVP)
+- [Jupyter Notebooks](https://github.com/Alsultan14/Hotel-Review-Natural-Language-Processing/tree/main/Notebooks)
 - [ Report]()
-- [Slides Presentation]()
-- [Dataset]()
+- [ Presentation](https://github.com/Alsultan14/Hotel-Review-Natural-Language-Processing/tree/main/Presentation)
+- [Dataset](https://github.com/Alsultan14/Hotel-Review-Natural-Language-Processing/tree/main/Dataset)
 
 ### Contact Me
 For any questions please contact me <br/>
