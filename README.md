@@ -10,15 +10,15 @@
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # About the repository:
-- [Project Proposal]()
-- [Project MVP]()
+- [ Proposal]()
+- [ MVP]()
 - [Jupyter Notebooks]()
-- [Final Report]()
+- [ Report]()
 - [Slides Presentation]()
 - [Dataset]()
 
 ### Contact Me
 For any questions please contact me <br/>
-- [LinkedIn](https://www.linkedin.com/in/hala-alenazi-5768a8196/)
+- [LinkedIn](https://linkedin.com/in/hussain-sultan)
 <br/><br/>
 Thank you!
